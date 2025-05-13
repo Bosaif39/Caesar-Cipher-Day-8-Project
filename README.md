@@ -23,4 +23,4 @@ This project is from Day 8 of the course "100 Days of Code: The Complete Python 
 
 ## **Requirements:**
 
-Python 3.x
+* Python 3.x
