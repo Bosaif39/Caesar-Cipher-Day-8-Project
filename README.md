@@ -4,7 +4,9 @@
 
 ## **Overview:**
 
-This project is from Day 8 of the course "100 Days of Code: The Complete Python Pro Bootcamp." It implements a Caesar cipher, a type of substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
+This project is from Day 8 of the course "100 Days of Code: The Complete Python Pro Bootcamp." 
+
+It implements a Caesar cipher, a type of substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
 
 ## **How It Works:**
 
